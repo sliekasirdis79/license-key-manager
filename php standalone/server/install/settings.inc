@@ -13,7 +13,7 @@
     $config_file_path       = $config_file_directory.$config_file_name;
 
     //Your software name
-    $application_name       = "License Key Manager"; 
+    $application_name       = "Failu Manija"; 
 
     //Your software version
     $application_version    = "1.0.0"; 
